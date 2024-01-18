@@ -1,1 +1,2 @@
-# fastapi_crud_blog
+# fastapi_crud_blog with JWT Authentication
+ 
